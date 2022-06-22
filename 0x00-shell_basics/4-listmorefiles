@@ -1,2 +1,2 @@
 #!/bin/bash
-info ls -la .. 
+ls -la  
